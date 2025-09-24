@@ -1,3 +1,5 @@
+package br.edu.unipe.aps2.exercicio2;
+
 public class Triangulo implements FiguraGeometrica {
     private double base;
     private double altura;

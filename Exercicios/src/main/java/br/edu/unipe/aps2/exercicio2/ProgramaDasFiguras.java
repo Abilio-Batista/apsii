@@ -1,4 +1,4 @@
-package exercicio2;
+package br.edu.unipe.aps2.exercicio2;
 
 public class ProgramaDasFiguras {
     public static void main(String[] args) {
